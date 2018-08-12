@@ -1,0 +1,22 @@
+{
+  "name": "parallaxwebsite",
+  "version": "1.0.0",
+  "description": "dawns demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsi117/demoforDawn.git"
+  },
+  "author": "lauren inacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsi117/demoforDawn/issues"
+  },
+  "homepage": "https://github.com/lsi117/demoforDawn#readme",
+  "dependencies": {
+    "timekit-booking": "^2.1.0"
+  }
+}
