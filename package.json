@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lsi117/demoforDawn#readme",
   "dependencies": {
+    "normalize.css": "^8.0.0",
     "timekit-booking": "^2.1.0"
   }
 }
